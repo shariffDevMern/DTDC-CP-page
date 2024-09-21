@@ -1,0 +1,9 @@
+.dtdc-logo{
+    width:60%;
+    max-width:100px;
+    margin-right:10px;
+}
+.hero-bg{
+    background-image: url('images/handshake_190617.jpg');
+    background-size:cover;
+}
