@@ -16,7 +16,19 @@ This project is a responsive webpage for **DTDC Courier**, built using **Bootstr
 - **HTML5**
 - **CSS3**
 - **Bootstrap 5**
-  
+
+### Screenshots
+### Desktop View
+![Hero Section](https://i.ibb.co/8rJG5V8/desktop-view.png)
+
+
+### Mobile View
+![Hero Section](https://i.ibb.co/mJ3LJgV/mobile-view.png)
+
+## Demo
+
+You can view the live demo of the Netflix clone https://shariffdevmern.github.io/DTDC-CP-page/
+
 ## How to Use
 
 1. Clone this repository:
