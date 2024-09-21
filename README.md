@@ -19,7 +19,7 @@ This project is a responsive webpage for **DTDC Courier**, built using **Bootstr
 
 ### Screenshots
 ### Desktop View
-![Hero Section](https://i.ibb.co/8rJG5V8/desktop-view.png)
+![Hero Section](https://i.ibb.co/z8mSQz2/Desktop-View-dtdc.png)
 
 
 ### Mobile View
